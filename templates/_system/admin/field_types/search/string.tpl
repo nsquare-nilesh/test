@@ -1,1 +1,0 @@
-<input type="text" name="{$id}[equal]" value="{$value.equal}" {if $url == "/manage-invoices/"}{if $id== 'sid'}{/if}placeholder="[[Invoice#]]"{/if}/>

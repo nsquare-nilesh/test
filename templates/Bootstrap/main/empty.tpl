@@ -1,1 +1,0 @@
-{capture name='messages'}{module name='flash_messages' function='display'}{/capture}{$smarty.capture.messages|trim}{$MAIN_CONTENT}

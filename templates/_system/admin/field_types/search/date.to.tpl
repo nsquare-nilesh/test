@@ -1,2 +1,0 @@
-<input type="text" name="{$id}[not_more]" value="{$value.not_more}" id="{$id}_notmore" class="input__datepicker"/>
-<img class="ui-datepicker-trigger" src="{image}icon-calendar.svg" alt="..." title="...">
