@@ -1,0 +1,11 @@
+.jobs-by__wrapper{background:#333}
+.middle-banner{background:#333}
+.btn__yellow{color:white}
+.browse-by__list .count{color:#a0c520}
+.footer{background:#333}
+.btn__orange{background:#a0c520;border-color:#a0c520}
+.navbar{background:#333}
+.navbar .navbar-left .navbar__item .navbar__link{color:white}
+
+.navbar .navbar-left .navbar__item.active > .navbar__link, .navbar .navbar-left .navbar__item.active > .navbar__link:hover{color:white}
+

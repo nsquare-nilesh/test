@@ -1,0 +1,14 @@
+{
+  "require": {
+    "leafo/scssphp": "0.6.3",
+    "sentry/sentry": "^0.17.0",
+    "monolog/monolog": "^1.18",
+    "stripe/stripe-php": "^3.15",
+    "kissmetrics/kissmetrics-php": "^0.2.0",
+    "drewm/mailchimp-api": "^2.2",
+    "aws/aws-sdk-php": "2.8.31",
+    "paypal/merchant-sdk-php": "^3.9",
+    "intercom/intercom-php": "1.5",
+    "ezyang/htmlpurifier": "^4.8"
+  }
+}
